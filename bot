@@ -5,9 +5,7 @@ import schedule
 import time
 import sqlite3
 
-TOKEN = '7952922604:AAEjXNHJAzdQQVXnhQATNhJ_18yNZQ0-9aQ'
-CHAT_ID = '727265381'
-URL = 'https://www.kleinanzeigen.de/s-fpv/k0'
+de/s-fpv/k0'
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/77.0',
